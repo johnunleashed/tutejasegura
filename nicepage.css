@@ -37907,24 +37907,13 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 72px;
 }
 
-.u-header .u-image-1 {
-  width: 63px;
-  height: 32px;
-  margin: 22px auto 0 0;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
-}
-
 .u-header .u-social-icons-1 {
   white-space: nowrap;
   height: 26px;
   min-height: 16px;
   width: 98px;
   min-width: 68px;
-  margin: -29px 0 0 auto;
+  margin: 25px 0 0 auto;
 }
 
 .u-header .u-icon-1 {
@@ -37960,12 +37949,8 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 68px;
   }
 
-  .u-header .u-image-1 {
-    margin-top: 18px;
-    margin-left: auto;
-  }
-
   .u-header .u-social-icons-1 {
+    margin-top: 21px;
     margin-right: auto;
     margin-left: 0;
   }
